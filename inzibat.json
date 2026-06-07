@@ -1,0 +1,32 @@
+{
+    "version": "0.3.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/lynicis/inzibat/releases/download/v0.3.0/inzibat_Windows_i386.zip",
+            "bin": [
+                "inzibat.exe"
+            ],
+            "hash": "4207b29d4c11e3186dae392507731207589f53e6f712871a3506457b0cadbf0d"
+        },
+        "64bit": {
+            "url": "https://github.com/lynicis/inzibat/releases/download/v0.3.0/inzibat_Windows_x86_64.zip",
+            "bin": [
+                "inzibat.exe"
+            ],
+            "hash": "1c524c0c5150d475661f1b08125d8b38941e30de4efe4e93e02508084094b191"
+        },
+        "arm64": {
+            "url": "https://github.com/lynicis/inzibat/releases/download/v0.3.0/inzibat_Windows_arm64.zip",
+            "bin": [
+                "inzibat.exe"
+            ],
+            "hash": "8753ed447b6aa0c342d92acb1ba82746eef4aa107acb11fc635174fa42a200eb"
+        }
+    },
+    "homepage": "https://github.com/lynicis/inzibat",
+    "license": "MIT",
+    "description": "A lightweight HTTP mock server for microservices testing and development",
+    "persist": [
+        "inzibat.json"
+    ]
+}
