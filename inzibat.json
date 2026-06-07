@@ -6,21 +6,21 @@
             "bin": [
                 "inzibat.exe"
             ],
-            "hash": "87f95c8c55a42e954943e003040d124b66224d4899082b29266d14dad6581f36"
+            "hash": "6362b2e12ce8531eccb2c24752ec347923f8126c23c01937bdbaa3fb2b23af18"
         },
         "64bit": {
             "url": "https://github.com/lynicis/inzibat/releases/download/v0.3.1/inzibat_Windows_x86_64.zip",
             "bin": [
                 "inzibat.exe"
             ],
-            "hash": "4630c584c56c15055dc807a9b223c01e7bf739fd66a69fa0e2a95da255a0c3ea"
+            "hash": "437b02420571bcbd44ecee724a70b21d8aa8dc64e518d7e39000aa746bc3a7cf"
         },
         "arm64": {
             "url": "https://github.com/lynicis/inzibat/releases/download/v0.3.1/inzibat_Windows_arm64.zip",
             "bin": [
                 "inzibat.exe"
             ],
-            "hash": "7ca19cec9abfcc5c5bfe8af191b918fc306d70a83eb4f031d18bd9a40974306f"
+            "hash": "78ed009a0523c9a8a4fee887a96c6612d80f4c114c3989f97f61a6a4be3fd67f"
         }
     },
     "homepage": "https://github.com/lynicis/inzibat",
