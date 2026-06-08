@@ -1,14 +1,15 @@
 {
-    "version": "0.1.4",
+    "version": "0.1.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/lynicis/actup/releases/download/v0.1.4/actup_0.1.4_windows_x86_64.zip",
+            "url": "https://github.com/lynicis/actup/releases/download/v0.1.5/actup_0.1.5_windows_x86_64.zip",
             "bin": [
                 "actup.exe"
             ],
-            "hash": "ea2ee6263e19bb8456f5ba4fe10551f437d4cb043f5202eff599a3fe00a68247"
+            "hash": "af6d210c3eb7cb368b4a412d5b2ae209ec018a2fb19d3e0403d504852558f325"
         }
     },
     "homepage": "https://github.com/lynicis/actup",
+    "license": "MIT",
     "description": "Upgrade GitHub Actions versions interactively from your terminal"
 }
