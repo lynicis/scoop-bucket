@@ -1,0 +1,9 @@
+{
+  "version": "1.0.1",
+  "description": "Delete Safari browsing history on macOS",
+  "homepage": "https://github.com/lynicis/just-delete-safari-history",
+  "license": "MIT",
+  "url": "https://github.com/lynicis/just-delete-safari-history/releases/download/v1.0.1/just.sh",
+  "hash": "476a646603ea982f4cea15379b30f9a353e46fd493cbef324ec7dbbad3985a6d",
+  "bin": "just-delete-safari-history"
+}
