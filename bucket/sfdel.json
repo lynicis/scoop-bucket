@@ -1,9 +1,0 @@
-{
-  "version": "1.0.2",
-  "description": "Delete Safari browsing history on macOS",
-  "homepage": "https://github.com/lynicis/sfdel",
-  "license": "MIT",
-  "url": "https://github.com/lynicis/sfdel/releases/download/v1.0.2/sfdel.sh",
-  "hash": "98979ff03d748f2dd1e5f7e1f7b895d274b21a3db63053e8a1a1564d5126462b",
-  "bin": "sfdel"
-}
