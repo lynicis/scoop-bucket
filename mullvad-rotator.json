@@ -4,7 +4,7 @@
     "64bit": {
       "url": "https://github.com/lynicis/mullvad-rotator/releases/download/v1.1.1/mullvad-rotator.sh",
       "bin": ["mullvad-rotator.sh"],
-      "hash": "ec06dc97986e888c04e37b30c85cfa7a88cdb4c52251b1d033546b0c5e7d419b"
+      "hash": "5024aa5aeaa9b332a4e5e063e021c87522411cdc4c1a81125b2e90d4c1626d13"
     }
   },
   "homepage": "https://github.com/lynicis/mullvad-rotator",
