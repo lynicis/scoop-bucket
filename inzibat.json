@@ -1,19 +1,19 @@
 {
-    "version": "0.3.9",
+    "version": "0.3.10",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/lynicis/inzibat/releases/download/v0.3.9/inzibat_Windows_i386.zip",
+            "url": "https://github.com/lynicis/inzibat/releases/download/v0.3.10/inzibat_Windows_i386.zip",
             "bin": [
                 "inzibat.exe"
             ],
-            "hash": "ac28ba2707a8be32d5c0259612b06d20375a66d8c9ab4b3f1942ff950d721e49"
+            "hash": "76c10d36521cbcf5236d74b4315074214f5436490bdc4f2317782e88b4828f0f"
         },
         "64bit": {
-            "url": "https://github.com/lynicis/inzibat/releases/download/v0.3.9/inzibat_Windows_x86_64.zip",
+            "url": "https://github.com/lynicis/inzibat/releases/download/v0.3.10/inzibat_Windows_x86_64.zip",
             "bin": [
                 "inzibat.exe"
             ],
-            "hash": "d0dd6d7a8acf5c08844268af815916bb518233cea285e80a65d3dc01ab3dac94"
+            "hash": "1e15f0153760165a7adaa8bff53fe86f9d6033c9c0353c35b252fe7c44c2b329"
         }
     },
     "homepage": "https://github.com/lynicis/inzibat",
