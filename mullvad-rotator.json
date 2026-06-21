@@ -1,10 +1,10 @@
 {
-  "version": "1.2.0",
+  "version": "1.1.4",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/lynicis/mullvad-rotator/releases/download/v1.2.0/mullvad-rotator.sh",
+      "url": "https://github.com/lynicis/mullvad-rotator/releases/download/v1.1.4/mullvad-rotator.sh",
       "bin": ["mullvad-rotator.sh"],
-      "hash": "dec9154e383b75a7e7a65f26f29b24bd2615905639f01c38154366811c5658dd"
+      "hash": "47584f4d8e1104cd65a4404e5359502da93d5f5518e7da006f478a27a55751e7"
     }
   },
   "homepage": "https://github.com/lynicis/mullvad-rotator",
