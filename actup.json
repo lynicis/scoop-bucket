@@ -1,12 +1,12 @@
 {
-    "version": "0.10.2",
+    "version": "0.10.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/lynicis/actup/releases/download/v0.10.2/actup_0.10.2_windows_x86_64.zip",
+            "url": "https://github.com/lynicis/actup/releases/download/v0.10.3/actup_0.10.3_windows_x86_64.zip",
             "bin": [
                 "actup.exe"
             ],
-            "hash": "dd0a9660c0f823d7eb4f31ad51a1be81f4fd1887e569af81250098e909d0a0f6"
+            "hash": "273353ca647c756c44355f0bf157503ebc2068f3da25c77096a19d1356f0eea5"
         }
     },
     "homepage": "https://github.com/lynicis/actup",
